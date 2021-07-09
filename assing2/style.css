@@ -1,0 +1,21 @@
+.left{
+	background: url(bg.png);
+	min-width: 60%;
+	max-width: 60%;
+	background-size: cover;
+	height: 100vh;
+	background-position: center;
+	padding-left: 150px;
+	color: white;
+}
+h1{
+	font-size: 45px;
+}
+button{
+	background-color:  black;
+	padding: 15px 20px;
+	border-radius: 2rem;
+}
+ul li{
+	margin-right: 60px;
+}
